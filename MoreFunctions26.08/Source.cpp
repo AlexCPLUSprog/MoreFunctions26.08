@@ -72,6 +72,7 @@ int main() {
 	cout << absolute(-11) << endl;	// 11
 	cout << absolute(0.16) << endl;	// 0.16
 	cout << absolute(-1.5) << endl;	// 1.5
-
+	cout << absolute(true) << endl; // 1
+	
 	return 0;
 }
